@@ -22,7 +22,7 @@ npm install -g degit
 然后可以下载模板
 
 ```sh
-npx degit git@gitee.com:miyotech666/miyo-ui-ts-template.git <project-name>
+npx degit songsongzheng/miyo-ui-ts-template.git <project-name>
 ```
 
 ### 运行
